@@ -1,0 +1,351 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge\\Mouts.Challenge.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Application\\Mouts.Challenge.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Application\\Mouts.Challenge.Application.csproj",
+        "projectName": "Mouts.Challenge.Application",
+        "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Application\\Mouts.Challenge.Application.csproj",
+        "packagesPath": "C:\\Users\\Erikson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erikson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Domain\\Mouts.Challenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Domain\\Mouts.Challenge.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Domain\\Mouts.Challenge.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Domain\\Mouts.Challenge.Domain.csproj",
+        "projectName": "Mouts.Challenge.Domain",
+        "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Domain\\Mouts.Challenge.Domain.csproj",
+        "packagesPath": "C:\\Users\\Erikson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erikson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Infrastructure\\Mouts.Challenge.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Infrastructure\\Mouts.Challenge.Infrastructure.csproj",
+        "projectName": "Mouts.Challenge.Infrastructure",
+        "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Infrastructure\\Mouts.Challenge.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Erikson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erikson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Application\\Mouts.Challenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Application\\Mouts.Challenge.Application.csproj"
+              },
+              "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Domain\\Mouts.Challenge.Domain.csproj": {
+                "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Domain\\Mouts.Challenge.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge\\Mouts.Challenge.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge\\Mouts.Challenge.Api.csproj",
+        "projectName": "Mouts.Challenge.Api",
+        "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge\\Mouts.Challenge.Api.csproj",
+        "packagesPath": "C:\\Users\\Erikson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Erikson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Application\\Mouts.Challenge.Application.csproj": {
+                "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Application\\Mouts.Challenge.Application.csproj"
+              },
+              "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Infrastructure\\Mouts.Challenge.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Erikson\\source\\repos\\Mouts.Challenge\\Mouts.Challenge.Infrastructure\\Mouts.Challenge.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.Workspaces.Common": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.28, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\Mouts.Challenge.Application.csproj.AssemblyReference.cache
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\Mouts.Challenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\Mouts.Challenge.Application.AssemblyInfoInputs.cache
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\Mouts.Challenge.Application.AssemblyInfo.cs
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\Mouts.Challenge.Application.csproj.CoreCompileInputs.cache
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\bin\Debug\net8.0\Mouts.Challenge.Application.deps.json
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\bin\Debug\net8.0\Mouts.Challenge.Application.dll
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\bin\Debug\net8.0\Mouts.Challenge.Application.pdb
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\bin\Debug\net8.0\Mouts.Challenge.Domain.dll
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\bin\Debug\net8.0\Mouts.Challenge.Domain.pdb
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\Mouts.Ch.9C39A601.Up2Date
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\Mouts.Challenge.Application.dll
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\refint\Mouts.Challenge.Application.dll
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\Mouts.Challenge.Application.pdb
+C:\Users\Erikson\source\repos\Mouts.Challenge\Mouts.Challenge.Application\obj\Debug\net8.0\ref\Mouts.Challenge.Application.dll
